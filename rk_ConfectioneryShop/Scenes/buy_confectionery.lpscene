@@ -44,49 +44,49 @@ OTHER: none
         If 0
             Player.setActorVar(rk_ConFMeal1, 1)
             money -= 1
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
                     
         ElseIf 1
             Player.setActorVar(rk_ConFMeal2, 1)
             money -= 5
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
                     
         ElseIf 2
             Player.setActorVar(rk_ConFMeal3, 1)
             money -= 6
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
                     
         ElseIf 3
             Player.setActorVar(rk_ConFMeal4, 1)
             money -= 7
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
         
         ElseIf 4
             Player.setActorVar(rk_ConFMeal5, 1)
             money -= 8
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
             
         ElseIf 5
             Player.setActorVar(rk_ConFMeal6, 1)
             money -= 10
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
 
         ElseIf 6
             Player.setActorVar(rk_ConFMeal7, 1)
             money -= 12
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
 
         ElseIf 7
             Player.setActorVar(rk_ConFMeal8, 1)
             money -= 15
-            stock_bakeryproduct += 10
+            stock_confectioneryprod += 10
             Player(Excited)::"10 candies added to my pantry!"
    
         EndIf
