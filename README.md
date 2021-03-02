@@ -2,15 +2,17 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_ConfectioneryShop  version(1.0):</h3>
+<h3>rk_ConfectioneryShop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy/eat candies at different places around the city. </p> 
 <p>8 types of candy.  </p>
-<p>Contain 3 scenes. </p> 
+<p>Contain 4 scenes. </p> 
 <br>
 <hr>
 <br>
 <h3>Module requirements</h3>
-<p>At least LifePlay 3.18</p>
+<p>At least the game LifePlay 3.20</p>
 <br>
 <h3>Module conflict</h3>
 <p>rk_ShopAddons : You need to uninstall this mod (same content...)</p>
