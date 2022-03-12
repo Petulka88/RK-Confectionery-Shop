@@ -3,7 +3,7 @@
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
 <h3>rk_ConfectioneryShop :</h3>
-<p>Version: 1.0.3</p>
+<p>Version: 1.0.5</p>
 <br>
 <p>Add options to buy/eat candies at different places around the city. </p> 
 <p>8 types of candy.  </p>
